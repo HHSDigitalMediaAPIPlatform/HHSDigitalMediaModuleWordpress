@@ -6,6 +6,7 @@ Last updated: July 21, 2014
 Authors: [David Cummo](https://github.com/cooms13)
 
 ## General Information
+Note: This plugin is no longer supported.  Please use the new and improved wordpress plugin for HHS Digital Media Syndication found [Here](https://github.com/HHSDigitalMediaAPIPlatform/WordpressCustomPost)
 This is a Wordpress plugin that can be used to search and embed HHS Digital Media content.  It has been built and tested on Wordpress 3.9.1.  It is based on the pure HTML & Javascript module found [Here](https://github.com/HHSDigitalMediaAPIPlatform/HHSDigitalMediaModuleHTML).
 
 ## Installation & Setup
